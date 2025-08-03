@@ -24,7 +24,7 @@ is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Int
 ## 🔗 Links
 
 - 🪪 ENS: `gov.exogov.eth`
-- 🔐 Safe: [View on Gnosis Safe](https://app.safe.global/eth:0x5771cEAA8061c6b04c1bE3d5d9D70Cb5E9c08C2a)
+- 🔐 Safe: [View on Gnosis Safe](https://app.safe.global/base:0x5771cEAA8061c6b04c1bE3d5d9D70Cb5E9c08C2a)
 - 🌐 Mirror: [mirror.xyz/exogov.eth](https://mirror.xyz/exogov.eth)
 - 🧠 Whitepaper: [link to repo or Notion]
 - 📜 Live version: [link to HTML view]
